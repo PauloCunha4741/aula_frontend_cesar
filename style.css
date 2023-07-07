@@ -33,6 +33,14 @@ button {
     cursor: pointer;
 }
 
+.button-adicionar:hover {
+    color: rgb(0, 168, 112)
+}
+
+.button-apagar:hover {
+    color: rgb(239, 65, 7)
+}
+
 .checkbox-item {
     padding: 24px 40px 24px 12px;
     border-bottom: 1px solid #ddd;
